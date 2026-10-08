@@ -37,15 +37,10 @@ The project follows the full data analysis workflow: cleaning and preprocessing 
 ## 👥 Team Members | أعضاء الفريق
 
 1.Eng Ziad Ahmed Abdelmawgoud
-
-2.doc  Mohamed Abdelfatah
-
+2.doc  Mohamed Abdelfatah _ Team leader
 3.Eng  Fatima Alzhraa Adel
-
 4.Eng Mohamed Raafat
-
 5.EngRodina Fathy
-
 6. Marwa Essam
 
 ---
